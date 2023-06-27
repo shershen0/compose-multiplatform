@@ -1,3 +1,0 @@
-keptByKeepRule
-main
-mainShape
